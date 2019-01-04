@@ -1,10 +1,9 @@
 # Required Texts
-* Introduction to Game Design, Prototyping, and Development (IGDPD) 2nd edition, by Jeremy Gibson Bond
-
-    > Get it ASAP – your 1st week discussion assumes you having it 
+* `free` `required` Python for Everybody, by Chuck Severance [py4e.com/book](https://www.py4e.com/book)
+* `paid` `recommended` Python for Data Analysis, 2nd edition, by Wes McKinney 
 
 # Software
-This class will be using Unity3D 2018 for its default Dev Env. If you wish this for your personal laptop, and don't already have it installed, you can obtain it for free (under personal use license) from its homepage. Instructions for downloading and installing the software are available on Canvas.
+This class will be using Jupyter Notebook for its default Dev Env. If you wish this for your personal laptop, and don't already have it installed, you can obtain it for free from its homepage at [jupyter.org](https://jupyter.org).
 
 
 # Storage Media or Source Repo

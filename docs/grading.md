@@ -1,36 +1,11 @@
 # Assignments
 
-## Online Discussions
+## Homework
 
-The lecture part of this class will ask you to read the texts and discuss it online, before the next class. Weekly discussion topic and instructions will be announced on Canvas, and additional explanation will be provided in class. You can check the topic and submit your discussion posts and replies on Canvas. (Click Discussions in the navigation bar of Canvas page)
+Weekly assignments due usually every Wednesday evening, **typed and submitted electronically**. They’ll be posted on Canvas as PDFs along with any necessary files or starter code.
 
-First, you are expected to submit your initial post by Monday every week. Your initial post should have more than 250 words, while following the instruction.
+You may discuss/study with others on the homework, but every assignment **MUST BE INDIVIDUAL WORK**. Do not share code with others!
 
-Then you will have two more days to leave **two** replies to others' posts, which is due on following Wednesday. Replies should have more than 100 words respectively.
-
-A few select posts/replies may be introduced in class, with consideration of extra credits (i.e., honors point).
-
-Discussion assignments will not be given on the 5th/10th week.
-
-## Lab Assignments
-
-This class gives majority of its focus on lab activities, supposed to be done individually, outside class. Lab assignments will be introduced in class, and due on a day before the next class. Hands-ons in class will be provided in a limited extent, due to skill disparities between students and time utilization's sake.
-
-Tutorial videos with online resources will be provided, so that you can follow the instructions at your pace. As well, Slack community/instructor assist is available, so consider taking its full advantage.
-
-Lab assignments will not be given on the 5th/10th week.
-
-## Projects (Midterm/Final)
-
-As you read the Spolsky text, you will be asked to describe, discuss, and/or create or copy examples of a number of HCI principles. Your collection of descriptions and samples will be handed in twice during the quarter. This will also be submitted via Canvas.
-* Part 1 – 5th week - Wednesday, February 6
-* Part 2 – 10th week - Friday, March 15
-* Late submissions will **NOT** be accepted after Friday, March 15.
-
-
-# Assignment Policies
-
-One learns to program by programming. That is why programming assignments are a significant portion of your grade in this class. We can discuss ideas, demonstrate how things work and, occasionally, try things out in class, but most of the actual "learning" and skill-building, especially when it comes to coding, will occur outside of class as you apply these concepts to assigned problems.
 
 ## Submission and Late Policy
 
@@ -46,8 +21,19 @@ The following procedures apply to all assignments (unless specifically directed 
     * -50% for more than 1 week
 * Late submissions will **NOT** be accepted after Friday, March 15.
 
+
 ### Technical Challenge and Late Submission
 Friendly Reminder: BE SURE TO ALWAYS BACK-UP YOUR WORK and store incremental copies in multiple places. Flash drives and personal laptops only fail just prior to the due date of programming assignments (or so it seems). The instructor is very unlikely to perceive a storage or system crash as adequate grounds for allowing an extension of a due date!
+
+
+## Quizzes
+
+Each Friday there will be a quiz in the last 20 minutes of class. Doing the homework assignments diligently and paying attention in class will be sufficient to score 100%. The final exam will be composed of 3 individual quizzes to be completed during the final exam time.
+
+The lowest 2 quiz grades will be dropped.
+
+
+
 
 ## General Assignment Policy
 **All works are individual**: Unless otherwise noted, all work is to be done on an **individual basis**. At the same time, it is understood that learning from your peers is valid and you are encouraged to talk among yourselves about programming in general and current assignments in particular. Keep in mind, however, that each individual student must do the work in order to learn. Hence, the following guidelines are established:
@@ -70,10 +56,9 @@ Grades will be based on performance in three areas:
 
 Area | Portion
 ------|------
-Labs | 30%
-Midterm/Final Projects | 20%
-Online Discussion | 30%
-Participation	| 20%
+Homework | 45%
+Quizzes | 45%
+Attendance | 10%
 
 The grading scale is:
 

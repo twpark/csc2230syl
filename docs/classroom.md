@@ -18,22 +18,6 @@ Prior notices will be counted **if and only if** delivered before the class begi
 * Slack message
 * E-Mail
 
-# Honors Points
-
-You will be given a specific code in person, in case you show the following:
-
-* Active Participation in class
-* Helping others' lab questions on Slack channel
-    * This does not mean that you can do others' projects on their behalf.
-
-Earning 10 codes is equivalent to 5% of entire course credit and the points will be given as extra credits. All submissions will be summarized and reflected to the canvas a week before the finals' week.
-
-## How to submit a code
-
-After receiving a code, (hopefully immediately) submit it through the following link:
-
-* [bit.ly/CSC4800HONORS](http://bit.ly/CSC4800HONORS)
-
 
 # Classroom Policy Notes
 
@@ -57,7 +41,7 @@ After receiving a code, (hopefully immediately) submit it through the following 
 
 * SPU Closure
 
-    > SPU is closed Monday, January 14 (Martin Luther King Day) and Monday, February 18 (Presidents Day). These closures will not affect this class.
+    > SPU is closed Monday, January 14 (Martin Luther King Day) and Monday, February 18 (Presidents Day). Class will not meet on these days.
 
 * Inclement Weather
 

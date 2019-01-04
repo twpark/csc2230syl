@@ -9,8 +9,18 @@ Our mission is to equip students with theoretical knowledge and applied skills t
 Ways of Knowing in the Sciences (WKS) courses teach principles and foundational knowledge as well as technologies and important applications in different scientific disciplines. Students will explore topics using the scientific method and other tools of science (e.g., problem solving, inquiry learning) and will be encouraged to pursue lifelong scientific literacy. Students will also exam interactions between science and Christianity, including stewardship of nature.
 -->
 
-# Course Description and Learning Objectives 
-`Prerequisite: CSC 3220 Applications Programming`
+# Learning Outcomes
 
-TBD
+Be able to write computer programs that:
+* Process text files.
+* Do math.
+* Manipulate and plot data.
 
+Understand:
+* Basic computer topics (see Topics Covered).
+* What object oriented programming means.
+* How programming is used in engineering.
+
+# Topics Covered
+
+Memory, bytes, binary/hex, Boolean logic, data types, chars, strings, arrays, basic operations, functions, objects, casting, scope, pointers, loops, iterators, complexity analysis, basic data structures (lists, dictionaries, sets, tuples), file read/write, numpy library, matplotlib library, optimization

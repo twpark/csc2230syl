@@ -10,6 +10,8 @@ This is the **best and fastest** way to reach out to me and get class community 
 
 Once you sign-up, you can use [sputwp.slack.com](http://sputwp.slack.com) to open the slack channel.
 
+Get to the class channel #csc2230-winter19 and ask questions there. It is a shared classroom messenger channel for all students in my classes.
+
 # Contact Method #2: Open Office Hours
 * Monday: 11:30am-2pm
 * Tuesday: 9-11am, 3-5pm

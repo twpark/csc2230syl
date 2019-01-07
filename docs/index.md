@@ -4,7 +4,7 @@ Use the navigation and search features to find necessary information.
 
 # Course Description
 
-`Prerequisite: None`
+`Prerequisite: MAT 1234 or equivalent pre-calculus and calculus courses`
 
 Introduction to computer programming with an engineering applications theme. This course is not the prerequisite to CSC 2430.
 

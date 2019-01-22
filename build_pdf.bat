@@ -7,5 +7,6 @@ site\textbook\index.html ^
 site\grading\index.html ^
 site\classroom\index.html ^
 site\outcomes\index.html ^
-csc2230syl.pdf
+csc2230winter2019syl.pdf
+copy /Y csc2230winter2019syl.pdf ..\..\ 
 pause

@@ -14,7 +14,7 @@ Join the class channel #csc2230-winter19 and ask questions there. It is a shared
 
 # Contact Method #2: Open Office Hours
 
-You can stop by during the following times to ask question without appointment. 
+You can stop by during the following times to ask questions without scheduling an appointment. 
 
 * Monday: 11:30am-2pm
 * Tuesday: 9am-2pm
@@ -22,7 +22,7 @@ You can stop by during the following times to ask question without appointment.
 * Thursday: by appointment
 * Friday: 11:30am-2pm
 
-To schedule an appointments outside of these hours, PM me on Slack.
+To schedule an appointment outside of these hours, PM me on Slack.
 
 # Other contact methods
 * ***Snail*** **e-mail**: [twp@spu.edu](mailto:twp@spu.edu)
